@@ -1,4 +1,4 @@
-# **Tribute Page Project**
+# **Technical Documentation Page Project**
 
 ## **Project Overview**
 
